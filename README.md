@@ -21,3 +21,15 @@ Mute  | Mutes the gamepad mic
 Reach  | simply gives you 3 block reach
 UnlockSymbols  | Unlocks the locked sections of the keyboard
 ESP  | Shows Hitbox Then Draws A Line To Them
+
+
+Images of use:
+
+### Simple Usage of single script
+
+![2022-03-25_00-50](https://user-images.githubusercontent.com/90534409/160147291-03eeff7a-5110-4b98-bd1d-b1743888156d.png)
+
+### WiP GUI For these scripts.
+
+![2022-03-24_18-42](https://user-images.githubusercontent.com/90534409/160147414-cad2334a-6e3b-4c26-a0af-b857cea21974.png)
+
