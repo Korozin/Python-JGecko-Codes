@@ -23,5 +23,14 @@ Markup : * ESP (Shows Hitbox Then Draws A Line To Them)
  
  First Header  | Second Header
 ------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+Armor  | Shows Minigame Armor Hud
+Craft  | Content Cell
+Fly  | Content Cell
+Host  | Content Cell
+FOF  | Content Cell
+MegaCode  | Content Cell
+MultiJump  | Content Cell
+Mute  | Content Cell
+Reach  | Content Cell
+UnlockSymbols  | Content Cell
+ESP  | Content Cell
